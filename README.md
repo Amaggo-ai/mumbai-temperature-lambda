@@ -29,9 +29,10 @@ A serverless AWS Lambda function that provides real-time temperature data for Mu
 Architecture ->>>>>>>
 
 GitHub → CodePipeline → CodeBuild → Lambda → API Gateway
-    ↓           ↓           ↓         ↓         ↓
-  Source      Orchestrate  Build    Execute    Expose
-  Repository   Pipeline     Package  Function   API
+  
+Source   >   Orchestrate  >  Build  >  Execute  >  Expose
+
+Repository -> Pipeline -> Package -> Function -> API
 
 -----------------------------------------------------------------------------
 
