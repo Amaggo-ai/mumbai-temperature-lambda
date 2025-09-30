@@ -1,0 +1,1 @@
+{"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"city\": \"Mumbai\", \"country\": \"IN\", \"temperature_celsius\": 25.99, \"feels_like_celsius\": 25.99, \"humidity_percent\": 89, \"weather_description\": \"broken clouds\", \"timestamp\": 1759247059}"}
