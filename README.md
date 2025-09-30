@@ -3,7 +3,6 @@ A serverless AWS Lambda function that provides real-time temperature data for Mu
 ![AWS](https://img.shields.io/badge/AWS-Lambda-orange?logo=amazonaws)
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![CI/CD](https://img.shields.io/badge/CI/CD-CodePipeline-success)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 --------------------------------------------------------------------------
 ## 🚀 Features
