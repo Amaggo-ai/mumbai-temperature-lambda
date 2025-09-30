@@ -50,4 +50,5 @@ S3 - Artifact storage
 Python 3.9 - Runtime environment
 
 OpenWeatherMap API - Weather data source
+
 -----------------------------------------------------------------------------
